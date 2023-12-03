@@ -14,7 +14,7 @@ Data name: Urban Visual Pollution Dataset
 
 Source: [![Kaggle]](https://www.kaggle.com/datasets/abhranta/urban-visual-pollution-dataset)
 
-You can access the data after correcting the annotaions and labels here:
+You can access the data after correcting the annotations and labels here:
 [![Roboflow]](https://app.roboflow.com/sdaia-xqoon/capstone-avmph/8)
 
 
@@ -23,7 +23,7 @@ You can access the data after correcting the annotaions and labels here:
 
 ## Model
 
-Useing yolov8m to detect pollution in images Training YOLOv8m on the dataset with args: 
+Using yolov8m to detect pollution in images Training YOLOv8m on the dataset with args: 
 - epochs = 100
 - image size = 640x640
 - conf = 0.45
