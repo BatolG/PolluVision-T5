@@ -18,9 +18,6 @@ You can access the data after correcting the annotations and labels here:
 [![Roboflow]](https://app.roboflow.com/sdaia-xqoon/capstone-avmph/8)
 
 
-
-
-
 ## Model
 
 Using yolov8m to detect pollution in images Training YOLOv8m on the dataset with args: 
@@ -28,5 +25,12 @@ Using yolov8m to detect pollution in images Training YOLOv8m on the dataset with
 - image size = 640x640
 - conf = 0.45
 - iou = 0.4
+
+## Team Members
+- Batool Alghamdi
+- Abeer Alharbi
+- Rawabi Algethami
+- Nouf Aldawsari
+- Arjwan Alqarni
 
 
