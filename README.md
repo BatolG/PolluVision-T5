@@ -27,7 +27,7 @@ Using yolov8m to detect pollution in images Training YOLOv8m on the dataset with
 - iou = 0.4
 
 ## Demo
-36402206-b53c-4771-ac95-a00d98d56226.mov
+![](https://github.com/BatolG/PolluVision-T5/36402206-b53c-4771-ac95-a00d98d56226.mov)
 
 ## Team Members
 - Batool Alghamdi
